@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "bootstrap", "~> 5.3.0"
 gem "sassc-rails"
-gem "rspec-rails", "~> 6.0.0"
+gem "rspec-rails", "~> 7.1.0"
 gem "activestorage"
 
 
